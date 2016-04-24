@@ -3,7 +3,7 @@ Coursera Getting and Cleaning Data - Course Project                             
 ===================================================================================================
 Sebastien Leblanc                                                                       seb@leb.cat
 
-This analysis was conducted on accelerometer data pulished by Anguita D. (2013) [1].
+This analysis was conducted on accelerometer and gyroscope data pulished by Anguita D. (2013) [1].
 
 Functions & data transformations:
 =========================================
